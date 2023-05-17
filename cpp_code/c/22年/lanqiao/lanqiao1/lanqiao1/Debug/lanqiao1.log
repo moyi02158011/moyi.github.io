@@ -1,0 +1,3 @@
+﻿  text1126.cpp
+D:\c语言\22年\lanqiao\lanqiao1\lanqiao1\text1126.cpp(4,21): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  lanqiao1.vcxproj -> D:\c语言\22年\lanqiao\lanqiao1\Debug\lanqiao1.exe
